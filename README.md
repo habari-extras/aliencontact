@@ -1,0 +1,1 @@
+This plugin is no longer being actively developed. It is recommended that you install [Jambo](https://github.com/habari-extras/jambo) instead.
